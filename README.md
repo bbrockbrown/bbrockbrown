@@ -1,16 +1,15 @@
-## Hi there 👋
+## 🌟 About Me 🌟
+Hi! My name is Brock Brown, and I am a student at Northwestern University studying CS.
 
-<!-
-**bbrockbrown/bbrockbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 id="lang_title"> Languages </h3>
+<p dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="/">
+    <img src="https://camo.githubusercontent.com/04bcd2877d02f0c65ff93c7622686e0c5a4d838720a2ff5debe143a30b6eeb58/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3030303f266c6f676f3d507974686f6e" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-000?&amp;logo=Python" style="max-width: 100%;">
+  </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e0dc80cecfb9e807086f7318656abbc2bcc0695bf1039d3bee149e65e320b088/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f266c6f676f3d4a617661536372697074"><img src="https://camo.githubusercontent.com/e0dc80cecfb9e807086f7318656abbc2bcc0695bf1039d3bee149e65e320b088/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f266c6f676f3d4a617661536372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-000?&amp;logo=JavaScript" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0f6da244c28c1beb80b0cd098f54ec1432d77f98179080b82f233a25b379eb6a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432d3030303f266c6f676f3d43"><img src="https://camo.githubusercontent.com/0f6da244c28c1beb80b0cd098f54ec1432d77f98179080b82f233a25b379eb6a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432d3030303f266c6f676f3d43" alt="C" data-canonical-src="https://img.shields.io/badge/-C-000?&amp;logo=C" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3d705a6ededa9720dd8c25db34e4f5d4902e523e631b0ee7825ad7d51f12d844/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030303f266c6f676f3d4a617661266c6f676f436f6c6f723d303037333936"><img src="https://camo.githubusercontent.com/3d705a6ededa9720dd8c25db34e4f5d4902e523e631b0ee7825ad7d51f12d844/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030303f266c6f676f3d4a617661266c6f676f436f6c6f723d303037333936" alt="Java" data-canonical-src="https://img.shields.io/badge/-Java-000?&amp;logo=Java&amp;logoColor=007396" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/18a015a9345369916f2eab55054c6ae1837c673e6da5de9f0fdf0bc69079b829/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030303f266c6f676f3d54797065536372697074"><img src="https://camo.githubusercontent.com/18a015a9345369916f2eab55054c6ae1837c673e6da5de9f0fdf0bc69079b829/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030303f266c6f676f3d54797065536372697074" alt="TypeScript" data-canonical-src="https://img.shields.io/badge/-TypeScript-000?&amp;logo=TypeScript" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9e71d1c39725463c0d023010cb9d3c24b3005f6f58c5139c34c098e74c857fc8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3030303f266c6f676f3d63253262253262266c6f676f436f6c6f723d303035393943"><img src="https://camo.githubusercontent.com/9e71d1c39725463c0d023010cb9d3c24b3005f6f58c5139c34c098e74c857fc8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3030303f266c6f676f3d63253262253262266c6f676f436f6c6f723d303035393943" alt="C++" data-canonical-src="https://img.shields.io/badge/-C++-000?&amp;logo=c%2b%2b&amp;logoColor=00599C" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ec35cfe6ffd2dac669a5a3f79206e142063e01db72de4945d1ffc4f12bd25f59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d3030303f266c6f676f3d4d7953514c"><img src="https://camo.githubusercontent.com/ec35cfe6ffd2dac669a5a3f79206e142063e01db72de4945d1ffc4f12bd25f59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d3030303f266c6f676f3d4d7953514c" alt="SQL" data-canonical-src="https://img.shields.io/badge/-SQL-000?&amp;logo=MySQL" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ead9c5bb39377db8282954a5abe4f94f024372eaf254567ed533b0957f570b2f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53776966742d3030303f266c6f676f3d5377696674"><img src="https://camo.githubusercontent.com/ead9c5bb39377db8282954a5abe4f94f024372eaf254567ed533b0957f570b2f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53776966742d3030303f266c6f676f3d5377696674" alt="Swift" data-canonical-src="https://img.shields.io/badge/-Swift-000?&amp;logo=Swift" style="max-width: 100%;"></a></p>
