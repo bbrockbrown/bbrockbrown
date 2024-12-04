@@ -11,7 +11,7 @@ Hi! My name is Brock Brown, and I am a student at Northwestern University studyi
 
 <!-- Social Links -->
 <p align="left">
-  <a href="https://linkedin.com/in/bbrockbrown" target="blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">
+  <a href="https://www.linkedin.com/in/brock-brown-058216221/" target="blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bbrockbrown" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/bbrockbrown" target="blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">
