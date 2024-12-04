@@ -1,15 +1,74 @@
 ## 🌟 About Me 🌟
 Hi! My name is Brock Brown, and I am a student at Northwestern University studying CS.
 
-<h3 id="lang_title"> Languages </h3>
-<p dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="/">
-    <img src="https://camo.githubusercontent.com/04bcd2877d02f0c65ff93c7622686e0c5a4d838720a2ff5debe143a30b6eeb58/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3030303f266c6f676f3d507974686f6e" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-000?&amp;logo=Python" style="max-width: 100%;">
+<!-- General Info -->
+- 🔭 I’m currently working on [stats.fm](https://bbrockbrown2.pythonanywhere.com/), a stats.fm spinoff
+- 🌱 I’m currently learning using C with hardware systems, React, and Node.js
+- 📫 How to reach me brockbrown46@gmail.com
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1kQZOVXOr98vxorPpNW8l5oSGw0u--3lU/view?usp=drive_link)
+- ⚡️ Fun fact I have hiked the vertical equivalent of Mt. Everest (29029ft)
+<h3 align="left">Connect with me:</h3>
+
+<!-- Social Links -->
+<p align="left">
+  <a href="https://linkedin.com/in/bbrockbrown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bbrockbrown" height="30" width="40" />
   </a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e0dc80cecfb9e807086f7318656abbc2bcc0695bf1039d3bee149e65e320b088/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f266c6f676f3d4a617661536372697074"><img src="https://camo.githubusercontent.com/e0dc80cecfb9e807086f7318656abbc2bcc0695bf1039d3bee149e65e320b088/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f266c6f676f3d4a617661536372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-000?&amp;logo=JavaScript" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0f6da244c28c1beb80b0cd098f54ec1432d77f98179080b82f233a25b379eb6a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432d3030303f266c6f676f3d43"><img src="https://camo.githubusercontent.com/0f6da244c28c1beb80b0cd098f54ec1432d77f98179080b82f233a25b379eb6a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432d3030303f266c6f676f3d43" alt="C" data-canonical-src="https://img.shields.io/badge/-C-000?&amp;logo=C" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3d705a6ededa9720dd8c25db34e4f5d4902e523e631b0ee7825ad7d51f12d844/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030303f266c6f676f3d4a617661266c6f676f436f6c6f723d303037333936"><img src="https://camo.githubusercontent.com/3d705a6ededa9720dd8c25db34e4f5d4902e523e631b0ee7825ad7d51f12d844/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030303f266c6f676f3d4a617661266c6f676f436f6c6f723d303037333936" alt="Java" data-canonical-src="https://img.shields.io/badge/-Java-000?&amp;logo=Java&amp;logoColor=007396" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/18a015a9345369916f2eab55054c6ae1837c673e6da5de9f0fdf0bc69079b829/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030303f266c6f676f3d54797065536372697074"><img src="https://camo.githubusercontent.com/18a015a9345369916f2eab55054c6ae1837c673e6da5de9f0fdf0bc69079b829/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030303f266c6f676f3d54797065536372697074" alt="TypeScript" data-canonical-src="https://img.shields.io/badge/-TypeScript-000?&amp;logo=TypeScript" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9e71d1c39725463c0d023010cb9d3c24b3005f6f58c5139c34c098e74c857fc8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3030303f266c6f676f3d63253262253262266c6f676f436f6c6f723d303035393943"><img src="https://camo.githubusercontent.com/9e71d1c39725463c0d023010cb9d3c24b3005f6f58c5139c34c098e74c857fc8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3030303f266c6f676f3d63253262253262266c6f676f436f6c6f723d303035393943" alt="C++" data-canonical-src="https://img.shields.io/badge/-C++-000?&amp;logo=c%2b%2b&amp;logoColor=00599C" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ec35cfe6ffd2dac669a5a3f79206e142063e01db72de4945d1ffc4f12bd25f59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d3030303f266c6f676f3d4d7953514c"><img src="https://camo.githubusercontent.com/ec35cfe6ffd2dac669a5a3f79206e142063e01db72de4945d1ffc4f12bd25f59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d3030303f266c6f676f3d4d7953514c" alt="SQL" data-canonical-src="https://img.shields.io/badge/-SQL-000?&amp;logo=MySQL" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ead9c5bb39377db8282954a5abe4f94f024372eaf254567ed533b0957f570b2f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53776966742d3030303f266c6f676f3d5377696674"><img src="https://camo.githubusercontent.com/ead9c5bb39377db8282954a5abe4f94f024372eaf254567ed533b0957f570b2f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53776966742d3030303f266c6f676f3d5377696674" alt="Swift" data-canonical-src="https://img.shields.io/badge/-Swift-000?&amp;logo=Swift" style="max-width: 100%;"></a></p>
+  <a href="https://www.leetcode.com/bbrockbrown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bbrockbrown" height="30" width="40" />
+  </a>
+   <a href="https://www.leetcode.com/bbrockbrown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bbrockbrown" height="30" width="40" />
+  </a>
+</p>
+
+<!-- Languages -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://github.com/bbrockbrown" target="_blank" rel="noreferrer" style="color: none;"> 
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+  </a> 
+  <a href="" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="color: none;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="color: none;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="color: none;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+  </a> 
+</p>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bbrockbrown&show_icons=true&locale=en&layout=compact" alt="bbrockbrown" />
+</p>
