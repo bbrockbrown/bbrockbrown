@@ -26,11 +26,17 @@ Hi! My name is Brock Brown, and I am a student at Northwestern University studyi
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <span>
+    <img src="https://static.cdnlogo.com/logos/r/21/react.svg" alt="react" width="45" height="45" />
+  </span>
+  <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </span> 
-  <span>
+  <span style="padding-left: 5px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </span> 
+  <span>
+    <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="tailwindcss" width="40" height="40" />
+  </span>
   <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </span> 
