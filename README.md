@@ -2,8 +2,8 @@
 Hi! My name is Brock Brown, and I am a student at Northwestern University studying CS.
 
 <!-- General Info -->
-- 🔭 I’m currently working on [stats.fm](https://bbrockbrown2.pythonanywhere.com/), a stats.fm spinoff
-- 🌱 I’m currently learning to use C/C++ and CUDA to leverage parallel computing as well polishing my React & Tailwind CSS skills
+- 🔭 I’m currently working on JogoGolf[https://jogogolf.com/], a social app for golfers to connect, share, and compete!
+- 🌱 I’m currently learning how to utilize Stripe to enforce 'paywalls' for online products
 - 📫 Reach out to me at: brockbrown46@gmail.com
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1kQZOVXOr98vxorPpNW8l5oSGw0u--3lU/view?usp=drive_link)
 - ⚡️ Fun fact I have hiked the vertical equivalent of Mt. Everest (29029ft)!
