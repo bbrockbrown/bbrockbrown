@@ -79,6 +79,4 @@ Hi! My name is Brock Brown, and I am a student at Northwestern University studyi
   </span> -->
 </p>
 
-<p>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbrockbrown)](https://github.com/bbrockbrown/github-readme-stats)
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbrockbrown)](https://github.com/anuraghazra/github-readme-stats)
