@@ -79,5 +79,7 @@ Hi! My name is Brock Brown, and I am a student at Northwestern University studyi
   </span> -->
 </p>
 
-<img alt="Brock Brown's stats" src="https://github-readme-stats.vercel.app/api?username=bbrockbrown&theme=material-palenight&show_icons=true" />
-<img alt="Brock Brown's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbrockbrown&hide=css&layout=donut-vertical&theme=material-palenight" />
+<div style={{display: 'flex', justifyContent: 'center', width: '100%',}}>
+  <img alt="Brock Brown's stats" src="https://github-readme-stats.vercel.app/api?username=bbrockbrown&theme=material-palenight&show_icons=true" />
+  <img alt="Brock Brown's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbrockbrown&hide=css&layout=donut-vertical&theme=material-palenight" />
+</div>
