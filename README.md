@@ -79,4 +79,4 @@ Hi! My name is Brock Brown, and I am a student at Northwestern University studyi
   </span> -->
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbrockbrown)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Brock Brown's stats" src="https://github-readme-stats.vercel.app/api?username=bbrockbrown" />
