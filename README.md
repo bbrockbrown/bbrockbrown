@@ -80,4 +80,4 @@ Hi! My name is Brock Brown, and I am a student at Northwestern University studyi
 </p>
 
 <img alt="Brock Brown's stats" src="https://github-readme-stats.vercel.app/api?username=bbrockbrown" />
-<img alt="Brock Brown's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbrockbrown" />
+<img alt="Brock Brown's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbrockbrown&hide=css" />
