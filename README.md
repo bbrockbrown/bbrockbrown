@@ -30,6 +30,9 @@ Hi! My name is Brock Brown, and I am a student at Northwestern University studyi
   </span>
   <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </span>
+  <span style="padding-left: 5px;">
+    <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40" height="40"/> 
   </span> 
   <span style="padding-left: 5px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -59,7 +62,7 @@ Hi! My name is Brock Brown, and I am a student at Northwestern University studyi
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
   </span> 
   <span>
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+    <img src="https://img.icons8.com/?id=ewGOClUtmFX4&format=png&color=000000" alt="flask" width="40" height="40"/> 
   </span> 
   <span>
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
