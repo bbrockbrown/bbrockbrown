@@ -48,7 +48,6 @@ Hi! My name is Brock Brown, and I am a student at Northwestern University studyi
   <table>
     <tr>
       <td width="800" align="center">
-        <img alt="Brock Brown's stats" src="https://github-readme-stats.vercel.app/api?username=bbrockbrown&theme=material-palenight&show_icons=true" height="250"/>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=bbrockbrown&theme=material-palenight" alt="BRock Brown's Commit Graph" height="250" width="800"/>
       </td>
       <td width="400" valign="middle">
