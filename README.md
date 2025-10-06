@@ -3,9 +3,9 @@ Hi! My name is Brock Brown, and I am a student at Northwestern University studyi
 
 <!-- General Info -->
 - 🔭 I’m currently working on [JogoGolf](https://jogogolf.com/), a social app for golfers to connect, share, and compete, as a fullstack developer
-- 🌱 I’m currently learning how to utilize Stripe to enforce 'paywalls' for online products
+- 🌱 I'm currently learning how operating systems schedule processes and manage concurrency in C!
 - 📫 Reach out to me at: brockbrown46@gmail.com
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1kQZOVXOr98vxorPpNW8l5oSGw0u--3lU/view?usp=drive_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/12AZ3qPDDhTDEhJokNI1EHKZgtc-pJajx/view?usp=sharing)
 - ⚡️ Fun fact I have hiked the vertical equivalent of Mt. Everest (29029ft)!
 <h3 align="left">Connect with me:</h3>
 
